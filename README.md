@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Shloka Bhatt
 
 ## 💫About Me :
-👩‍💻 I'm currently working for a local startup.  
+👩‍💻 I'm currently a graduate student at The University of Texas at Arlington.   
 📖 I'm learning React JS.  
 😀 Ask me about UI/UX Designing.  
 📩 You can contact me: Twitter - @Shlokabhatt  
@@ -15,8 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=shloka2212&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shloka2212&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shloka2212&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=shloka2212&bg_color=141321&color=db3a7d&line=db3a7d&point=ffffff&show_icons=true&custom_title=GitHub%20Commits%20Graph%20&alt=GitHub%20Commits%20Graph" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shloka2212&icon=0&color=0)](https://visitcount.itsvg.in)
